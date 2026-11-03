@@ -10,8 +10,6 @@
   Sistema web para la gestión de inventario y ventas de una botica.
 </p>
 
-  <p>Sistema web para la gestión de inventario y ventas de una botica.</p>
-
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
