@@ -1,6 +1,14 @@
 <div align="center">
 
-  <h1>💚 Nova Salud</h1>
+  <p align="center">
+  <img src="Nova-Salud.png"
+       alt="Nova Salud"
+       width="300">
+</p>
+
+<p align="center">
+  Sistema web para la gestión de inventario y ventas de una botica.
+</p>
 
   <p>Sistema web para la gestión de inventario y ventas de una botica.</p>
 
