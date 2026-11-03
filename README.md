@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="./assets/Nova-Salud.png"
+  <img src=".assets/Nova-Salud.png"
        alt="Nova Salud"
        width="300">
 </p>
