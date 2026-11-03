@@ -3,9 +3,8 @@
   <p align="center">
   <img src=".assets/Nova-Salud.png"
        alt="Nova Salud"
-       width="400">
+       width="350">
 </p>
-
 <p align="center">
   Sistema web para la gestión de inventario y ventas de una botica.
 </p>
