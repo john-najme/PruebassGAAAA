@@ -3,7 +3,7 @@
   <p align="center">
   <img src=".assets/Nova-Salud.png"
        alt="Nova Salud"
-       width="350">
+       width="400">
 </p>
 
 <p align="center">
